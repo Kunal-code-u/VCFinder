@@ -36,9 +36,5 @@ Startups often struggle to identify and reach out to VCs who specialize in their
 
 ---
 
-## 📸 Screenshots
-
-<img src="screenshots/homepage.png" alt="Homepage" width="800" />
-<img src="screenshots/search-result.png" alt="VC Search Results" width="800" />
-
----
+### 🌐 Live Demo
+👉 [View Deployed App](https://gilded-florentine-e061a2.netlify.app/)
